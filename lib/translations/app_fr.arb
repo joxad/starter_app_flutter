@@ -1,0 +1,13 @@
+{
+    "@@locale": "fr",
+    "counterAppBarTitle": "Compteur",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "pageNotFoundMessage": "Désolé, page introuvable…",
+    "backToHomeLabel": "Retour",
+    "settings": "Options",
+    "language": "Langue",
+    "theme": "Thème",
+    "home": "Accueil"
+}
