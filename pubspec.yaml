@@ -39,6 +39,7 @@ dependencies:
     sdk: flutter
   intl: any
   card_swiper: ^2.0.4
+  palette_generator: ^0.3.3+3
 
 dev_dependencies:
   flutter_test:
